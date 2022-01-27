@@ -1,0 +1,2 @@
+# Azure
+Azure Quickstart Templates
